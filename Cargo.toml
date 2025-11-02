@@ -1,0 +1,10 @@
+[package]
+name = "input-reader"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+[[bin]]
+name = "input-reader"
+path = "main.rs"
