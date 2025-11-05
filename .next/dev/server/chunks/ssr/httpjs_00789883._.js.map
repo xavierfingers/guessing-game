@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/zaino/httpjs/app/layout.tsx"],"sourcesContent":["const  React  =  import(\"react\");\r\nexport default function RootLayout()  {\r\n\t return(\r\n             <html>\r\n                 <body>\r\n\t\t<p> ALL in Next js! </p>\r\n                   <button>Next js!</button>\r\n                    <link rel=\"stylesheet\" src=\"stylesheet\">\r\n                    </link>   \r\n                    </body>\r\n                      </html>\r\n                     )\r\n}\r\n"],"names":[],"mappings":";;;;;;AAAA,MAAO;AACQ,SAAS;IACtB,qBACW,wPAAC;kBACG,cAAA,wPAAC;;8BAChB,wPAAC;8BAAE;;;;;;8BACc,wPAAC;8BAAO;;;;;;8BACP,wPAAC;oBAAK,KAAI;oBAAa,KAAI;;;;;;;;;;;;;;;;;AAK/C","debugId":null}},
+    {"offset": {"line": 53, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/zaino/httpjs/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = (\n  require('../../module.compiled') as typeof import('../../module.compiled')\n).vendored['react-rsc']!.ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":"AAAAA,OAAOC,OAAO,GACZC,QAAQ,mIACRC,QAAQ,CAAC,YAAY,CAAEC,kBAAkB","ignoreList":[0],"debugId":null}}]
+}
